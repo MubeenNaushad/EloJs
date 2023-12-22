@@ -1,4 +1,5 @@
 // Question 1:
+
 class Vec {
     constructor(x, y) {
       this.x = x;
