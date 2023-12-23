@@ -1,1 +1,1 @@
-No questions in Chapter 1.
+No questions & exercises in Chapter 1.
