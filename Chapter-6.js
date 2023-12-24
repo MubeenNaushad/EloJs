@@ -25,3 +25,6 @@ class Vec {
   // → Vec{x: -1, y: -1}
   console.log(new Vec(3, 4).length);
   // → 5
+
+// Question 2:
+
